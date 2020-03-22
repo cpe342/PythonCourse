@@ -1,0 +1,1 @@
+answer=[[n for n in range(10)]for n in range(10)]
